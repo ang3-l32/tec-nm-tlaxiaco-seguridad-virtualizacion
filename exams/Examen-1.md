@@ -22,7 +22,7 @@ Nombre: Angeles Gonzalez Martinez
 
 * [ ] a) Planeación, organización, dirección, control y evaluación.
 * [ ] b) Hardware, software, datos, procedimientos y personas.
-* [C] c) Recopilación, almacenamiento, distribución, archivo y destrucción.
+* [x] c) Recopilación, almacenamiento, distribución, archivo y destrucción.
 * [ ] d) Confidencialidad, integridad, disponibilidad, autenticación y autorización.
 
 4. ¿Cuál de los siguientes NO es un beneficio de la gestión de la información?
